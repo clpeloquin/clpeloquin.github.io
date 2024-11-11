@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>categories on CLPELOQUIN</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in categories on CLPELOQUIN</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 09 Mar 2023 16:36:44 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recherche</title>
+      <link>//localhost:1313/categories/recherche/</link>
+      <pubDate>Thu, 09 Mar 2023 16:36:44 -0500</pubDate>
+      <guid>//localhost:1313/categories/recherche/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentaires</title>
+      <link>//localhost:1313/categories/documentaires/</link>
+      <pubDate>Mon, 13 Feb 2023 10:00:02 -0500</pubDate>
+      <guid>//localhost:1313/categories/documentaires/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fleuve Saint-Laurent</title>
+      <link>//localhost:1313/categories/fleuve-saint-laurent/</link>
+      <pubDate>Wed, 01 Feb 2023 13:59:02 -0500</pubDate>
+      <guid>//localhost:1313/categories/fleuve-saint-laurent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liens</title>
+      <link>//localhost:1313/categories/liens/</link>
+      <pubDate>Mon, 23 Jan 2023 09:47:29 -0500</pubDate>
+      <guid>//localhost:1313/categories/liens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Industrie</title>
+      <link>//localhost:1313/categories/industrie/</link>
+      <pubDate>Thu, 27 Oct 2022 13:59:02 -0500</pubDate>
+      <guid>//localhost:1313/categories/industrie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>//localhost:1313/categories/archives/</link>
+      <pubDate>Tue, 01 Feb 2022 13:59:02 -0500</pubDate>
+      <guid>//localhost:1313/categories/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photo</title>
+      <link>//localhost:1313/categories/photo/</link>
+      <pubDate>Tue, 01 Feb 2022 13:59:02 -0500</pubDate>
+      <guid>//localhost:1313/categories/photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Géographie</title>
+      <link>//localhost:1313/categories/g%C3%A9ographie/</link>
+      <pubDate>Sat, 16 Oct 2021 13:59:02 -0500</pubDate>
+      <guid>//localhost:1313/categories/g%C3%A9ographie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes de lecture</title>
+      <link>//localhost:1313/categories/notes-de-lecture/</link>
+      <pubDate>Wed, 13 Oct 2021 13:59:02 -0500</pubDate>
+      <guid>//localhost:1313/categories/notes-de-lecture/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
